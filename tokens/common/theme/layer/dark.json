@@ -1,19 +1,19 @@
 {
   "layer": {
     "floor": {
-      "value": "{dust.0}",
+      "value": "{dust.900}",
       "type": "color"
     },
     "floor-overlay": {
-      "value": "rgba(255,255,255,0.8)",
+      "value": "rgba(0,0,0,0.4)",
       "type": "color",
     },
     "modal": {
-      "value": "{dust.0}",
+      "value": "{dust.800}",
       "type": "color",
     },
     "floor-scrim": {
-      "value": "{overlay.neutral}",
+      "value": "{overlay.static-dark}",
       "type": "color"
     }
   }

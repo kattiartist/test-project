@@ -1,0 +1,32 @@
+{
+  "overlay": {
+    "neutral": {
+      "value": "rgba(122,122,122,0.12)",
+      "type": "color"
+    },
+    "brand": {
+      "value": "rgba(71,165,255,0.12)",
+      "type": "color"
+    },
+    "positive": {
+      "value": "rgba(228,139,157,0.12)",
+      "type": "color"
+    },
+    "warning": {
+      "value": "rgba(250,152,61,0.12)",
+      "type": "color"
+    },
+    "negative": {
+      "value": "rgba(255,117,117,0.12)",
+      "type": "color"
+    },
+    "static-light": {
+      "value": "rgba(255,255,255,0.3)",
+      "type": "color"
+    },
+    "static-dark": {
+      "value": "rgba(0,0,0,0.3)",
+      "type": "color"
+    }
+  }
+}
