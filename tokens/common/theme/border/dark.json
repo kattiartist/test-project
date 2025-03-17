@@ -6,19 +6,19 @@
     },
     "neutral-secondary": {
       "value": "rgba(184,184,184,0.3)",
-      "type": "color",
+      "type": "color"
     },
     "brand-primary": {
       "value": "{brand.500}",
-      "type": "color",
+      "type": "color"
     },
     "positive-primary": {
       "value": "{avocado.500}",
-      "type": "color",
+      "type": "color"
     },
     "warning-primary": {
       "value": "{peach.500}",
-      "type": "color",
+      "type": "color"
     },
     "negative-primary": {
       "value": "{salmon.500}",

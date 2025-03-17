@@ -6,11 +6,11 @@
     },
     "floor-overlay": {
       "value": "rgba(255,255,255,0.8)",
-      "type": "color",
+      "type": "color"
     },
     "modal": {
       "value": "{dust.0}",
-      "type": "color",
+      "type": "color"
     },
     "floor-scrim": {
       "value": "{overlay.neutral}",
