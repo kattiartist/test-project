@@ -1,0 +1,12 @@
+{
+  "layer": {
+    "floor": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "floor-overlay": {
+      "value": "rgba(255,255,255,0.8)",
+      "type": "color-opacity"
+    }
+  }
+}
