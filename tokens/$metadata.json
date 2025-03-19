@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "common/device/typography/typography",
+    "common/theme/background/dark",
+    "common/theme/background/light",
+    "common/theme/border/dark",
+    "common/theme/border/light",
+    "common/theme/content/dark",
+    "common/theme/content/light",
+    "common/theme/effect/dark",
+    "common/theme/effect/light",
+    "common/theme/layer/dark",
+    "common/theme/layer/light",
+    "common/theme/overlay/dark",
+    "common/theme/overlay/light",
+    "common/theme/palette/dark",
+    "common/theme/palette/light"
+  ]
+}
