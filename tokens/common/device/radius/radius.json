@@ -21,10 +21,22 @@
       "type": "number"
     },
     "250": {
-      "value": "16",
+      "value": "12",
       "type": "number"
     },
     "300": {
+      "value": "14",
+      "type": "number"
+    },
+    "350": {
+      "value": "16",
+      "type": "number"
+    },
+    "400": {
+      "value": "20",
+      "type": "number"
+    },
+    "450": {
       "value": "24",
       "type": "number"
     },
