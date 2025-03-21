@@ -12,6 +12,10 @@
       "value": "{brand.500}",
       "type": "color"
     },
+    "brand-secondary": {
+      "value": "{brand.700}",
+      "type": "color"
+    },
     "positive-primary": {
       "value": "{avocado.500}",
       "type": "color"
