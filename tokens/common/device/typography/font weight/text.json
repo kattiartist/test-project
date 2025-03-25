@@ -1,0 +1,24 @@
+{
+  "text": {
+    "regular": {
+      "value": 250,
+      "type": "number"
+    },
+    "medium": {
+      "value": 300,
+      "type": "number"
+    },
+    "semi-bold": {
+      "value": 350,
+      "type": "number"
+    },
+    "bold": {
+      "value": 400,
+      "type": "number"
+    },
+    "extra-bold": {
+      "value": 450,
+      "type": "number"
+    }
+  }
+}
