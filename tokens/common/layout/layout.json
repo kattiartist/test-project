@@ -74,19 +74,19 @@
     },
     "has-sidebar": {
       "sm": {
-        "value": false,
+        "value": "false",
         "type": "boolean"
       },
       "md": {
-        "value": false,
+        "value": "false",
         "type": "boolean"
       },
       "lg": {
-        "value": true,
+        "value": "true",
         "type": "number"
       },
       "xl": {
-        "value": true,
+        "value": "true",
         "type": "number"
       }
     },
