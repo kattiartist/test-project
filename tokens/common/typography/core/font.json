@@ -1,12 +1,14 @@
 {
-  "font": {
-    "brand": {
-      "value": "Inter",
-      "type": "text"
-    },
-    "text": {
-      "value": "Inter",
-      "type": "text"
+  "typography": {
+    "font": {
+      "brand": {
+        "value": "Inter",
+        "type": "text"
+      },
+      "text": {
+        "value": "Inter",
+        "type": "text"
+      }
     }
   }
 }
