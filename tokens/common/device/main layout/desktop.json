@@ -1,13 +1,13 @@
 {
   "layout": {
     "min-width": {
-        "value": "{layout.breakpoint-xl}",
-        "type": "number"
-  },
-  "max-width": {
+      "value": "{layout.breakpoint-xl}",
+      "type": "number"
+    },
+    "max-width": {
       "value": "{layout.max-width.xl}",
       "type": "number"
-  },
+    },
     "width": {
       "value": "{product-width.xl}",
       "type": "number"
