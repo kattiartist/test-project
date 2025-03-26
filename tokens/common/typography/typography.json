@@ -1,0 +1,12 @@
+{
+  "display": {
+    "400": {
+      "default": {},
+      "numeric": {},
+      "accent": {},
+      "accent-numeric": {}
+    }
+  },
+  "text": {},
+  "compact": {}
+}
