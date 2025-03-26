@@ -31,6 +31,8 @@
     "component/semantic-text/desktop",
     "component/semantic-text/mobile",
     "component/semantic-text/tablet-landscape",
-    "component/semantic-text/tablet-portrait"
+    "component/semantic-text/tablet-portrait",
+    "common/layout/layout",
+    "common/media/media"
   ]
 }

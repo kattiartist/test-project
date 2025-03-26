@@ -7,7 +7,13 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core": "enabled",
+      "component/main-layout/mobile": "enabled",
+      "component/markdown/mobile": "enabled",
+      "component/semantic-text/mobile": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:0",
@@ -76,7 +82,13 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core": "enabled",
+      "component/main-layout/tablet-portrait": "enabled",
+      "component/markdown/tablet-portrait": "enabled",
+      "component/semantic-text/tablet-portrait": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:1",
@@ -145,7 +157,13 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core": "enabled",
+      "component/main-layout/tablet-landscape": "enabled",
+      "component/markdown/tablet-landscape": "enabled",
+      "component/semantic-text/tablet-landscape": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:2",
@@ -214,7 +232,13 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core": "enabled",
+      "component/main-layout/desktop": "enabled",
+      "component/markdown/desktop": "enabled",
+      "component/semantic-text/desktop": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:3",
