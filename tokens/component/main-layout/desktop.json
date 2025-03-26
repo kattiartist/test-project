@@ -1,19 +1,23 @@
 {
   "main-layout": {
+    "size-class": {
+      "value": "{size-class.name.xl}",
+      "type": "text"
+    },
     "min-width": {
-      "value": "{layout.breakpoint-xl}",
+      "value": "{size-class.min-width.xl}",
       "type": "number"
     },
     "max-width": {
-      "value": "{layout.max-width.xl}",
+      "value": "{size-class.max-width.xl}",
       "type": "number"
     },
     "width": {
-      "value": "{product-width.xl}",
+      "value": "{size-class.width.xl}",
       "type": "number"
     },
     "height": {
-      "value": "{product-height.xl}",
+      "value": "{size-class.height.xl}",
       "type": "number"
     },
     "col-number": {
@@ -21,15 +25,23 @@
       "type": "number"
     },
     "gutter": {
-      "value": "{layout-gutter.xl}",
+      "value": "{layout.gutter.xl}",
       "type": "number"
     },
     "margin-horizontal": {
-      "value": "{spacing.450}",
+      "value": "{layout.margin-horizontal.xl}",
       "type": "number"
     },
     "content-compensation": {
-      "value": "16",
+      "value": "{layout.content-compensation.xl}",
+      "type": "number"
+    },
+    "has-sidebar": {
+      "value": "{layout.has-sidebar.xl}",
+      "type": "boolean"
+    },
+    "sidebar-width": {
+      "value": "{layout.sidebar-width.xl}",
       "type": "number"
     }
   }
