@@ -7,7 +7,8 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:0",
@@ -62,7 +63,9 @@
       "stroke.150": "569f760da503856c1bdc8cd3f54d239a5309bd1f",
       "stroke.200": "a432bdea5b80db14d50d74b0bf258d6bee300feb",
       "stroke.250": "ba0f493e884473e53f31f352ce1586e9ddbe8524",
-      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677"
+      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677",
+      "typography.font.brand": "df638703280d75c72480dabb066208cbe10408f8",
+      "typography.font.text": "dcb97b148007716d36c105120c67b26bcfcabed6"
     },
     "group": "device"
   },
@@ -74,7 +77,8 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:1",
@@ -129,7 +133,9 @@
       "stroke.150": "569f760da503856c1bdc8cd3f54d239a5309bd1f",
       "stroke.200": "a432bdea5b80db14d50d74b0bf258d6bee300feb",
       "stroke.250": "ba0f493e884473e53f31f352ce1586e9ddbe8524",
-      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677"
+      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677",
+      "typography.font.brand": "df638703280d75c72480dabb066208cbe10408f8",
+      "typography.font.text": "dcb97b148007716d36c105120c67b26bcfcabed6"
     },
     "group": "device"
   },
@@ -141,7 +147,8 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:2",
@@ -196,7 +203,9 @@
       "stroke.150": "569f760da503856c1bdc8cd3f54d239a5309bd1f",
       "stroke.200": "a432bdea5b80db14d50d74b0bf258d6bee300feb",
       "stroke.250": "ba0f493e884473e53f31f352ce1586e9ddbe8524",
-      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677"
+      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677",
+      "typography.font.brand": "df638703280d75c72480dabb066208cbe10408f8",
+      "typography.font.text": "dcb97b148007716d36c105120c67b26bcfcabed6"
     },
     "group": "device"
   },
@@ -208,7 +217,8 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled"
+      "common/stroke/stroke": "enabled",
+      "common/typography/core/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:3",
@@ -263,7 +273,9 @@
       "stroke.150": "569f760da503856c1bdc8cd3f54d239a5309bd1f",
       "stroke.200": "a432bdea5b80db14d50d74b0bf258d6bee300feb",
       "stroke.250": "ba0f493e884473e53f31f352ce1586e9ddbe8524",
-      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677"
+      "stroke.300": "bcd585f2b14208361beab815a6e5e2a600a4f677",
+      "typography.font.brand": "df638703280d75c72480dabb066208cbe10408f8",
+      "typography.font.text": "dcb97b148007716d36c105120c67b26bcfcabed6"
     },
     "group": "device"
   }
