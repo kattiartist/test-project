@@ -7,8 +7,7 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled",
-      "common/typography/core/font": "enabled"
+      "common/stroke/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:0",
@@ -77,8 +76,7 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled",
-      "common/typography/core/font": "enabled"
+      "common/stroke/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:1",
@@ -147,8 +145,7 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled",
-      "common/typography/core/font": "enabled"
+      "common/stroke/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:2",
@@ -217,8 +214,7 @@
       "common/radius/radius": "enabled",
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
-      "common/stroke/stroke": "enabled",
-      "common/typography/core/font": "enabled"
+      "common/stroke/stroke": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:7:2",
     "$figmaModeId": "7:3",
