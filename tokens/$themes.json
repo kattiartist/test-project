@@ -699,7 +699,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled"
+      "common/media/media": "enabled",
+      "common/platform/layout/breakpoint": "enabled"
     },
     "group": "platform"
   },
@@ -709,7 +710,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled"
+      "common/media/media": "enabled",
+      "common/platform/layout/breakpoint": "enabled"
     },
     "group": "platform"
   },
@@ -719,7 +721,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled"
+      "common/media/media": "enabled",
+      "common/platform/layout/breakpoint": "enabled"
     },
     "group": "platform"
   },
@@ -729,7 +732,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled"
+      "common/media/media": "enabled",
+      "common/platform/layout/breakpoint": "enabled"
     },
     "group": "platform"
   }
