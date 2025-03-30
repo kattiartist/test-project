@@ -1,7 +1,7 @@
 {
   "main-layout": {
     "breakpoint": {
-    "value": "desktop",
+      "value": "desktop",
       "type": "text"
     },
     "min-width": {
