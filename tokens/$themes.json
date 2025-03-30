@@ -692,5 +692,45 @@
       "semantic-text.paragraph-xs.paragraph-spacing": "e63c786224e119d8fec4ba6a648d2dab71c018c4"
     },
     "group": "device"
+  },
+  {
+    "id": "26675d9fd7d8ff7ad9e86e00ba0e669d91f73092",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "8df0290ed2a9c67cf987d9c316fa49b6f66b11f8",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "dbcdf40492bc92cc5107f5912a5c3eef2cd33260",
+    "name": "tablet-landscape",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
+    },
+    "group": "platform"
+  },
+  {
+    "id": "0b361c051d4f44d14b9f133d0b065eb60424b872",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
+    },
+    "group": "platform"
   }
 ]
