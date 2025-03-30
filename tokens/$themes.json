@@ -797,5 +797,25 @@
       "common/platform/layout/breakpoint": "enabled"
     },
     "group": "platform"
+  },
+  {
+    "id": "9c0cf5b76fe01262ae668c92d6a2426aac628944",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/light": "enabled",
+      "common/theme/light": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "1377a8f59de5b0c33ae9646498d781e2bc3ff379",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/palette/dark": "enabled",
+      "common/theme/dark": "enabled"
+    },
+    "group": "theme"
   }
 ]
