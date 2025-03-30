@@ -1,0 +1,112 @@
+{
+  "layout": {
+    "col-number": {
+      "sm": {
+        "value": "12",
+        "type": "number"
+      },
+      "md": {
+        "value": "12",
+        "type": "number"
+      },
+      "lg": {
+        "value": "12",
+        "type": "number"
+      },
+      "xl": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "gutter": {
+      "sm": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.450}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "margin-horizontal": {
+      "sm": {
+        "value": "{spacing.250}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.350}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.450}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    },
+    "content-compensation": {
+      "sm": {
+        "value": "{spacing.250}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{spacing.250}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{spacing.250}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{spacing.250}",
+        "type": "number"
+      }
+    },
+    "has-sidebar": {
+      "sm": {
+        "value": "false",
+        "type": "boolean"
+      },
+      "md": {
+        "value": "false",
+        "type": "boolean"
+      },
+      "lg": {
+        "value": "true",
+        "type": "number"
+      },
+      "xl": {
+        "value": "true",
+        "type": "number"
+      }
+    },
+    "sidebar-width": {
+      "sm": {
+        "value": 0,
+        "type": "number"
+      },
+      "md": {
+        "value": 0,
+        "type": "number"
+      },
+      "lg": {
+        "value": 400,
+        "type": "number"
+      },
+      "xl": {
+        "value": 400,
+        "type": "number"
+      }
+    }
+  }
+}
