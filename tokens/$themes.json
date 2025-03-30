@@ -698,9 +698,10 @@
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled"
+      "common/platform/layout/breakpoint": "enabled",
+      "common/media/media": "enabled",
+      "common/layout/layout": "enabled"
     },
-    "group": "platform",
     "$figmaCollectionId": "VariableCollectionId:28:7852",
     "$figmaModeId": "359:0",
     "$figmaVariableReferences": {
@@ -753,14 +754,17 @@
       "size-class.height.md": "9bb8d0d3dbbe096c30d3001b46f5d8f9786a1774",
       "size-class.height.lg": "97f9ac13607c0074edbfca3c4719b3d4ccbba669",
       "size-class.height.xl": "4ed7679b860666e368963efb6598b16c364e77de"
-    }
+    },
+    "group": "platform"
   },
   {
     "id": "8df0290ed2a9c67cf987d9c316fa49b6f66b11f8",
     "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled"
+      "common/platform/layout/breakpoint": "enabled",
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
     },
     "group": "platform"
   },
@@ -769,7 +773,9 @@
     "name": "tablet-landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled"
+      "common/platform/layout/breakpoint": "enabled",
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
     },
     "group": "platform"
   },
@@ -778,7 +784,9 @@
     "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled"
+      "common/platform/layout/breakpoint": "enabled",
+      "common/layout/layout": "enabled",
+      "common/media/media": "enabled"
     },
     "group": "platform"
   },

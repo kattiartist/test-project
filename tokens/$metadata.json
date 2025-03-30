@@ -22,13 +22,7 @@
     "component/semantic-text/mobile",
     "component/semantic-text/tablet-landscape",
     "component/semantic-text/tablet-portrait",
-    "common/layout/android",
-    "common/layout/apple",
-    "common/layout/mobile",
-    "common/layout/web",
-    "common/media/android",
-    "common/media/apple",
-    "common/media/mobile",
-    "common/media/web"
+    "common/layout/layout",
+    "common/media/media"
   ]
 }
