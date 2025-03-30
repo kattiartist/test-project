@@ -1,0 +1,218 @@
+{
+  "content": {
+    "neutral-primary": {
+      "value": "{stardust.900}",
+      "type": "color"
+    },
+    "neutral-secondary": {
+      "value": "{stardust.700}",
+      "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "brand-secondary": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "brand-tertiary": {
+      "value": "{brand.900}",
+      "type": "color"
+    },
+    "positive-primary": {
+      "value": "{avocado.600}",
+      "type": "color"
+    },
+    "positive-secondary": {
+      "value": "{avocado.400}",
+      "type": "color"
+    },
+    "warning-primary": {
+      "value": "{peach.600}",
+      "type": "color"
+    },
+    "warning-secondary": {
+      "value": "{peach.400}",
+      "type": "color"
+    },
+    "negative-primary": {
+      "value": "{salmon.600}",
+      "type": "color"
+    },
+    "negative-secondary": {
+      "value": "{salmon.400}",
+      "type": "color"
+    },
+    "info-primary": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "info-secondary": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "neutral-primary-inverted": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "static-light-primary": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "static-light-secondary": {
+      "value": "rgba(255,255,255,0.5)",
+      "type": "color"
+    },
+    "static-dark-primary": {
+      "value": "{dust.900}",
+      "type": "color"
+    },
+    "static-dark-secondary": {
+      "value": "rgba(0,0,0,0.4)",
+      "type": "color"
+    }
+  },
+  "background": {
+    "neutral-bright": {
+      "value": "{dust.900}",
+      "type": "color"
+    },
+    "brand-bright": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "positive-bright": {
+      "value": "{avocado.500}",
+      "type": "color"
+    },
+    "warning-bright": {
+      "value": "{peach.500}",
+      "type": "color"
+    },
+    "negative-bright": {
+      "value": "{salmon.500}",
+      "type": "color"
+    },
+    "neutral-pale": {
+      "value": "{dust.100}",
+      "type": "color"
+    },
+    "brand-pale": {
+      "value": "{brand.100}",
+      "type": "color"
+    },
+    "positive-pale": {
+      "value": "{avocado.100}",
+      "type": "color"
+    },
+    "warning-pale": {
+      "value": "{peach.100}",
+      "type": "color"
+    },
+    "negative-pale": {
+      "value": "{salmon.100}",
+      "type": "color"
+    },
+    "neutral-hight-inverted": {
+      "value": "{dust.900}",
+      "type": "color"
+    },
+    "static-light-high": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "static-dark-high": {
+      "value": "{dust.999}",
+      "type": "color"
+    },
+    "info-high": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "info-low": {
+      "value": "{brand.100}",
+      "type": "color"
+    }
+  },
+  "overlay": {
+    "neutral": {
+      "value": "rgba(196,196,196,0.3)",
+      "type": "color"
+    },
+    "brand": {
+      "value": "rgba(82,167,249,0.3)",
+      "type": "color"
+    },
+    "positive": {
+      "value": "rgba(89,203,149,0.3)",
+      "type": "color"
+    },
+    "warning": {
+      "value": "rgba(243,157,77,0.3)",
+      "type": "color"
+    },
+    "negative": {
+      "value": "rgba(255,124,124,0.3)",
+      "type": "color"
+    },
+    "static-light": {
+      "value": "rgba(255,255,255,0.3)",
+      "type": "color"
+    },
+    "static-dark": {
+      "value": "rgba(0,0,0,0.3)",
+      "type": "color"
+    }
+  },
+  "border": {
+      "neutral-primary": {
+        "value": "{dust.900}",
+        "type": "color"
+      },
+      "neutral-secondary": {
+        "value": "rgba(122,122,122,0.3)",
+        "type": "color"
+      },
+      "brand-primary": {
+        "value": "{brand.400}",
+        "type": "color"
+      },
+      "brand-secondary": {
+        "value": "{brand.600}",
+        "type": "color"
+      },
+      "positive-primary": {
+        "value": "{avocado.400}",
+        "type": "color"
+      },
+      "warning-primary": {
+        "value": "{peach.400}",
+        "type": "color"
+      },
+      "negative-primary": {
+        "value": "{salmon.400}",
+        "type": "color"
+      }
+    },
+    "layer": {
+      "floor": {
+        "value": "{dust.0}",
+        "type": "color"
+      },
+      "floor-overlay": {
+        "value": "rgba(255,255,255,0.8)",
+        "type": "color"
+      },
+      "modal": {
+        "value": "{dust.0}",
+        "type": "color"
+      },
+      "floor-scrim": {
+        "value": "{overlay.neutral}",
+        "type": "color"
+      }
+    }
+  }
+
+

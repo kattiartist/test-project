@@ -1,0 +1,48 @@
+{
+  "main-layout": {
+    "size-class": {
+      "value": "{size-class.name.xl}",
+      "type": "text"
+    },
+    "min-width": {
+      "value": "{size-class.min-width.xl}",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "{size-class.max-width.xl}",
+      "type": "number"
+    },
+    "width": {
+      "value": "{size-class.width.xl}",
+      "type": "number"
+    },
+    "height": {
+      "value": "{size-class.height.xl}",
+      "type": "number"
+    },
+    "col-number": {
+      "value": "{layout.col-number.xl}",
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{layout.gutter.xl}",
+      "type": "number"
+    },
+    "margin-horizontal": {
+      "value": "{layout.margin-horizontal.xl}",
+      "type": "number"
+    },
+    "content-compensation": {
+      "value": "{layout.content-compensation.xl}",
+      "type": "number"
+    },
+    "has-sidebar": {
+      "value": "{layout.has-sidebar.xl}",
+      "type": "boolean"
+    },
+    "sidebar-width": {
+      "value": "{layout.sidebar-width.xl}",
+      "type": "number"
+    }
+  }
+}

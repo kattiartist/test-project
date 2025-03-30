@@ -1,0 +1,48 @@
+{
+  "main-layout": {
+    "size-class": {
+      "value": "{size-class.name.sm}",
+      "type": "text"
+    },
+    "min-width": {
+      "value": "{size-class.min-width.sm}",
+      "type": "number"
+    },
+    "max-width": {
+      "value": "{size-class.max-width.sm}",
+      "type": "number"
+    },
+    "width": {
+      "value": "{size-class.width.sm}",
+      "type": "number"
+    },
+    "height": {
+      "value": "{size-class.height.sm}",
+      "type": "number"
+    },
+    "col-number": {
+      "value": "{layout.col-number.sm}",
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{layout.gutter.sm}",
+      "type": "number"
+    },
+    "margin-horizontal": {
+      "value": "{layout.margin-horizontal.sm}",
+      "type": "number"
+    },
+    "content-compensation": {
+      "value": "{layout.content-compensation.sm}",
+      "type": "number"
+    },
+    "has-sidebar": {
+      "value": "{layout.has-sidebar.sm}",
+      "type": "boolean"
+    },
+    "sidebar-width": {
+      "value": "{layout.sidebar-width.sm}",
+      "type": "number"
+    }
+  }
+}
