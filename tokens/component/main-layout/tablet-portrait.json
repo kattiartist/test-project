@@ -1,7 +1,7 @@
 {
   "main-layout": {
-    "size-class": {
-      "value": "{size-class.name.md}",
+    "breakpoint": {
+      "value": "tablet-portrait",
       "type": "text"
     },
     "min-width": {

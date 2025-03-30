@@ -1,7 +1,7 @@
 {
   "main-layout": {
-    "size-class": {
-      "value": "{size-class.name.lg}",
+    "breakpoint": {
+      "value": "tablet-landscape",
       "type": "text"
     },
     "min-width": {
