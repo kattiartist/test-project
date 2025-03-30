@@ -1,0 +1,50 @@
+[
+  {
+    "id": "caa57dc66d4073b68104826586a6098dda636a76",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled"
+    },
+    "group": "device"
+  },
+  {
+    "id": "f16eaed2c81e1c2c92bba724d9c13a94d2eafd46",
+    "name": "tablet-portrait",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled"
+    },
+    "group": "device"
+  },
+  {
+    "id": "ec92f9292331654b1d42d966397e9938cfdee421",
+    "name": "tablet-landscape",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled"
+    },
+    "group": "device"
+  },
+  {
+    "id": "df036f33c7aa18ca6196c2ab4ef6c7fcd656767a",
+    "name": "desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "common/radius/radius": "enabled",
+      "common/size/size": "enabled",
+      "common/spacing/spacing": "enabled",
+      "common/stroke/stroke": "enabled"
+    },
+    "group": "device"
+  }
+]
