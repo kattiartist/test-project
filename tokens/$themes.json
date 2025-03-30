@@ -20,7 +20,9 @@
       "component/semantic-text/desktop": "enabled",
       "component/semantic-text/mobile": "enabled",
       "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/tablet-portrait": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
     "$figmaModeId": "20:0",
@@ -243,7 +245,9 @@
       "component/semantic-text/mobile": "enabled",
       "component/markdown/tablet-portrait": "enabled",
       "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/tablet-portrait": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
     "$figmaModeId": "20:1",
@@ -466,7 +470,9 @@
       "component/semantic-text/desktop": "enabled",
       "component/semantic-text/mobile": "enabled",
       "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/tablet-portrait": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "group": "device"
   },
@@ -491,7 +497,9 @@
       "component/semantic-text/desktop": "enabled",
       "component/semantic-text/mobile": "enabled",
       "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/tablet-portrait": "enabled",
+      "common/layout/layout": "source",
+      "common/media/media": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
     "$figmaModeId": "20:3",
