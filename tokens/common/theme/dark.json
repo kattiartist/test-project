@@ -137,23 +137,23 @@
   },
   "overlay": {
     "neutral": {
-      "value": "rgba(122,122,122,0.12)",
+      "value": "rgba(122, 122, 122, 0.12)",
       "type": "color"
     },
     "brand": {
-      "value": "rgba(71,165,255,0.12)",
+      "value": "rgba(71, 165, 255, 0.12)",
       "type": "color"
     },
     "positive": {
-      "value": "rgba(228,139,157,0.12)",
+      "value": "rgba(89, 203, 149,0.12)",
       "type": "color"
     },
     "warning": {
-      "value": "rgba(250,152,61,0.12)",
+      "value": "rgba(250, 152, 61,0.12)",
       "type": "color"
     },
     "negative": {
-      "value": "rgba(255,117,117,0.12)",
+      "value": "rgba(255, 117, 117,0.12)",
       "type": "color"
     },
     "static-light": {

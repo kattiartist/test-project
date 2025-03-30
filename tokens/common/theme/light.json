@@ -166,53 +166,51 @@
     }
   },
   "border": {
-      "neutral-primary": {
-        "value": "{dust.900}",
-        "type": "color"
-      },
-      "neutral-secondary": {
-        "value": "rgba(122,122,122,0.3)",
-        "type": "color"
-      },
-      "brand-primary": {
-        "value": "{brand.400}",
-        "type": "color"
-      },
-      "brand-secondary": {
-        "value": "{brand.600}",
-        "type": "color"
-      },
-      "positive-primary": {
-        "value": "{avocado.400}",
-        "type": "color"
-      },
-      "warning-primary": {
-        "value": "{peach.400}",
-        "type": "color"
-      },
-      "negative-primary": {
-        "value": "{salmon.400}",
-        "type": "color"
-      }
+    "neutral-primary": {
+      "value": "{dust.900}",
+      "type": "color"
     },
-    "layer": {
-      "floor": {
-        "value": "{dust.0}",
-        "type": "color"
-      },
-      "floor-overlay": {
-        "value": "rgba(255,255,255,0.8)",
-        "type": "color"
-      },
-      "modal": {
-        "value": "{dust.0}",
-        "type": "color"
-      },
-      "floor-scrim": {
-        "value": "{overlay.neutral}",
-        "type": "color"
-      }
+    "neutral-secondary": {
+      "value": "rgba(122,122,122,0.3)",
+      "type": "color"
+    },
+    "brand-primary": {
+      "value": "{brand.400}",
+      "type": "color"
+    },
+    "brand-secondary": {
+      "value": "{brand.600}",
+      "type": "color"
+    },
+    "positive-primary": {
+      "value": "{avocado.400}",
+      "type": "color"
+    },
+    "warning-primary": {
+      "value": "{peach.400}",
+      "type": "color"
+    },
+    "negative-primary": {
+      "value": "{salmon.400}",
+      "type": "color"
+    }
+  },
+  "layer": {
+    "floor": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "floor-overlay": {
+      "value": "rgba(255,255,255,0.8)",
+      "type": "color"
+    },
+    "modal": {
+      "value": "{dust.0}",
+      "type": "color"
+    },
+    "floor-scrim": {
+      "value": "{overlay.neutral}",
+      "type": "color"
     }
   }
-
-
+}
