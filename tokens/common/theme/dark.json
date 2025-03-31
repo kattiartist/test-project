@@ -79,7 +79,7 @@
       "type": "color"
     },
     "brand-bright": {
-      "value": "#brand.600",
+      "value": "{brand.600}",
       "type": "color"
     },
     "positive-bright": {
