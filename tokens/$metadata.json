@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
+    "common/layout/layout",
+    "common/media/media",
     "common/palette/dark",
     "common/palette/light",
     "common/radius/radius",
@@ -13,15 +15,13 @@
     "component/main-layout/mobile",
     "component/main-layout/tablet-landscape",
     "component/main-layout/tablet-portrait",
-    "component/markdown/desktop",
-    "component/markdown/mobile",
-    "component/markdown/tablet-landscape",
-    "component/markdown/tablet-portrait",
     "component/semantic-text/desktop",
     "component/semantic-text/mobile",
     "component/semantic-text/tablet-landscape",
     "component/semantic-text/tablet-portrait",
-    "common/layout/layout",
-    "common/media/media"
+    "component/markdown/desktop",
+    "component/markdown/mobile",
+    "component/markdown/tablet-landscape",
+    "component/markdown/tablet-portrait"
   ]
 }

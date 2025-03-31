@@ -9,6 +9,10 @@
       "type": "number"
     },
     "breakpoint": {
+      "sm": {
+        "value": "0",
+        "type": "number"
+      },
       "md": {
         "value": "768",
         "type": "number"
