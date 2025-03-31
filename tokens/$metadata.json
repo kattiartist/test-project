@@ -11,6 +11,9 @@
     "common/theme/dark",
     "common/theme/light",
     "common/typography/core",
+    "common/effect/dark",
+    "common/effect/light",
+    "common/effect/shadow",
     "component/main-layout/desktop",
     "component/main-layout/mobile",
     "component/main-layout/tablet-landscape",
@@ -22,9 +25,6 @@
     "component/markdown/desktop",
     "component/markdown/mobile",
     "component/markdown/tablet-landscape",
-    "component/markdown/tablet-portrait",
-    "common/effect/dark",
-    "common/effect/light",
-    "common/effect/shadow"
+    "component/markdown/tablet-portrait"
   ]
 }
