@@ -5,6 +5,62 @@
       "type": "number"
     },
     "max-width": {
+      "value": "1920",
+      "type": "number"
+    },
+    "breakpoint": {
+      "md": {
+        "value": "768",
+        "type": "number"
+      },
+      "lg": {
+        "value": "1024",
+        "type": "number"
+      },
+      "xl": {
+        "value": "1200",
+        "type": "number"
+      }
+    }
+  },
+  "size-class": {
+    "name": {
+      "sm": {
+        "value": "mobile",
+        "type": "text"
+      },
+      "md": {
+        "value": "tablet-portrait",
+        "type": "text"
+      },
+      "lg": {
+        "value": "tablet-landscape",
+        "type": "text"
+      },
+      "xl": {
+        "value": "desktop",
+        "type": "text"
+      }
+    },
+    "min-width": {
+      "sm": {
+        "value": "{media.min-width}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{media.breakpoint.md}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{media.breakpoint.lg}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{media.breakpoint.xl}",
+        "type": "number"
+      }
+    },
+    "max-width": {
       "sm": {
         "value": "{media.breakpoint.md} - 1",
         "type": "number"
@@ -18,78 +74,45 @@
         "type": "number"
       },
       "xl": {
-        "value": "1920",
-        "type": "number"
-      }
-    },
-    "breakpoint": {
-      "sm": {
-        "value": "0",
-        "type": "number"
-      },
-      "md": {
-        "value": "600",
-        "type": "number"
-      },
-      "lg": {
-        "value": "840",
-        "type": "number"
-      },
-      "xl": {
-        "value": "1200",
+        "value": "{media.max-width}",
         "type": "number"
       }
     },
     "width": {
       "sm": {
-        "value": "{media.min-width}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{size-class.min-width.sm}",
+        "type": "number"
       },
       "md": {
-        "value": "{media.breakpoint.md}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{size-class.min-width.md}",
+        "type": "number"
       },
       "lg": {
-        "value": "{media.breakpoint.lg}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{size-class.min-width.lg}",
+        "type": "number"
       },
       "xl": {
-        "value": "{media.breakpoint.xl}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "{size-class.min-width.xl}",
+        "type": "number"
       }
     },
     "height": {
       "sm": {
-        "value": "640",
-        "type": "number",
-        "description": "figma-only"
+        "value": "800",
+        "type": "number"
       },
       "md": {
-        "value": "{media.breakpoint.lg}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "800",
+        "type": "number"
       },
       "lg": {
-        "value": "{media.breakpoint.md}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "800",
+        "type": "number"
       },
       "xl": {
-        "value": "{media.breakpoint.lg}",
-        "type": "number",
-        "description": "figma-only"
+        "value": "800",
+        "type": "number"
       }
-    }
-  },
-  "platform": {
-    "name": {
-      "value": "android",
-      "type": "text",
-      "description": "figma-only"
     }
   }
 }

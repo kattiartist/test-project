@@ -1,116 +1,110 @@
 {
-  "media": {
-    "min-width": {
-      "value": "360",
-      "type": "number"
-    },
-    "max-width": {
-      "value": "1920",
-      "type": "number"
-    },
-    "breakpoint": {
-      "md": {
-        "value": "768",
-        "type": "number"
-      },
-      "lg": {
-        "value": "1024",
-        "type": "number"
-      },
-      "xl": {
-        "value": "1200",
-        "type": "number"
-      }
-    }
-  },
-  "size-class": {
-    "name": {
+  "layout": {
+    "col-number": {
       "sm": {
-        "value": "mobile",
-        "type": "text"
-      },
-      "md": {
-        "value": "tablet-portrait",
-        "type": "text"
-      },
-      "lg": {
-        "value": "tablet-landscape",
-        "type": "text"
-      },
-      "xl": {
-        "value": "desktop",
-        "type": "text"
-      }
-    },
-    "min-width": {
-      "sm": {
-        "value": "{media.min-width}",
+        "value": "12",
         "type": "number"
       },
       "md": {
-        "value": "{media.breakpoint.md}",
+        "value": "12",
         "type": "number"
       },
       "lg": {
-        "value": "{media.breakpoint.lg}",
+        "value": "12",
         "type": "number"
       },
       "xl": {
-        "value": "{media.breakpoint.xl}",
+        "value": "12",
         "type": "number"
       }
     },
-    "max-width": {
+    "gutter": {
       "sm": {
-        "value": "{media.breakpoint.md} - 1",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "md": {
-        "value": "{media.breakpoint.lg} - 1",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "lg": {
-        "value": "{media.breakpoint.xl} - 1",
+        "value": "{spacing.450}",
         "type": "number"
       },
       "xl": {
-        "value": "{media.max-width}",
+        "value": "{spacing.450}",
         "type": "number"
       }
     },
-    "width": {
+    "margin-horizontal": {
       "sm": {
-        "value": "{size-class.min-width.sm}",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "md": {
-        "value": "{size-class.min-width.md}",
+        "value": "{spacing.350}",
         "type": "number"
       },
       "lg": {
-        "value": "{size-class.min-width.lg}",
+        "value": "{spacing.450}",
         "type": "number"
       },
       "xl": {
-        "value": "{size-class.min-width.xl}",
+        "value": "{spacing.450}",
         "type": "number"
       }
     },
-    "height": {
+    "content-compensation": {
       "sm": {
-        "value": "800",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "md": {
-        "value": "800",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "lg": {
-        "value": "800",
+        "value": "{spacing.250}",
         "type": "number"
       },
       "xl": {
-        "value": "800",
+        "value": "{spacing.250}",
+        "type": "number"
+      }
+    },
+    "has-sidebar": {
+      "sm": {
+        "value": "false",
+        "type": "boolean"
+      },
+      "md": {
+        "value": "false",
+        "type": "boolean"
+      },
+      "lg": {
+        "value": "true",
+        "type": "number"
+      },
+      "xl": {
+        "value": "true",
+        "type": "number"
+      }
+    },
+    "sidebar-width": {
+      "sm": {
+        "value": 0,
+        "type": "number"
+      },
+      "md": {
+        "value": 0,
+        "type": "number"
+      },
+      "lg": {
+        "value": 400,
+        "type": "number"
+      },
+      "xl": {
+        "value": 400,
         "type": "number"
       }
     }
