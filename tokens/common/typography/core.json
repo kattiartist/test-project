@@ -372,7 +372,7 @@
           "fontFamily": "{typography.font.brand}",
           "fontWeight": "{typography.font-weight.brand.bold}",
           "fontSize": "{typography.font-size.600}",
-          "lineHeight": "{typography.line-height.default.250}",
+          "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
           "paragraphSpacing": "{typography.paragraph-spacing.0}",
           "textCase": "none",
