@@ -1194,9 +1194,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/palette/light": "enabled",
-      "common/theme/light": "enabled"
+      "common/theme/light": "enabled",
+      "common/effect/light": "enabled",
+      "common/effect/shadow": "enabled"
     },
-    "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:369:6679",
     "$figmaModeId": "369:16",
     "$figmaVariableReferences": {
@@ -1306,18 +1307,27 @@
       "layer.floor": "3d13df5502c96601eff78edae52c1629615c4214",
       "layer.floor-overlay": "3c5a40f4fd9665e7264623d81b4744f9d0873d5b",
       "layer.modal": "ff9479c0a7d5d3d8c7bec33e919416a90ecd92bb",
-      "layer.floor-scrim": "6593fad12df833620a47ba91e0d621ffc8dc5bc3"
-    }
+      "layer.floor-scrim": "6593fad12df833620a47ba91e0d621ffc8dc5bc3",
+      "effect.shadow.100": "573c15daa8ca398c45bd67aee069638ddf92a410",
+      "effect.shadow.500": "bcc97245aadbfbcbc30a2f0b0fde958137b35f7d",
+      "effect.shadow.900": "0b8776212696d69966212207ce673c0730eb19b8"
+    },
+    "group": "theme"
   },
   {
     "id": "1377a8f59de5b0c33ae9646498d781e2bc3ff379",
     "name": "dark",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "shadow.100": "S:bca8d38e4383f5ea1878515d431a85a58904fe43,",
+      "shadow.500": "S:0c797c727b138c26ee7aaff9570ca9ae171158d9,",
+      "shadow.900": "S:78b68c5a2b24721a0f3705667da41920d94faca7,"
+    },
     "selectedTokenSets": {
       "common/palette/dark": "enabled",
-      "common/theme/dark": "enabled"
+      "common/theme/dark": "enabled",
+      "common/effect/dark": "enabled",
+      "common/effect/shadow": "enabled"
     },
-    "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:369:6679",
     "$figmaModeId": "369:17",
     "$figmaVariableReferences": {
@@ -1427,7 +1437,11 @@
       "layer.floor": "3d13df5502c96601eff78edae52c1629615c4214",
       "layer.floor-overlay": "3c5a40f4fd9665e7264623d81b4744f9d0873d5b",
       "layer.modal": "ff9479c0a7d5d3d8c7bec33e919416a90ecd92bb",
-      "layer.floor-scrim": "6593fad12df833620a47ba91e0d621ffc8dc5bc3"
-    }
+      "layer.floor-scrim": "6593fad12df833620a47ba91e0d621ffc8dc5bc3",
+      "effect.shadow.100": "573c15daa8ca398c45bd67aee069638ddf92a410",
+      "effect.shadow.500": "bcc97245aadbfbcbc30a2f0b0fde958137b35f7d",
+      "effect.shadow.900": "0b8776212696d69966212207ce673c0730eb19b8"
+    },
+    "group": "theme"
   }
 ]

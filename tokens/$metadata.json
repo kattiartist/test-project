@@ -22,6 +22,9 @@
     "component/markdown/desktop",
     "component/markdown/mobile",
     "component/markdown/tablet-landscape",
-    "component/markdown/tablet-portrait"
+    "component/markdown/tablet-portrait",
+    "common/effect/dark",
+    "common/effect/light",
+    "common/effect/shadow"
   ]
 }
