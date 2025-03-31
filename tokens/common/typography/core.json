@@ -357,7 +357,7 @@
       "numeric": {
         "value": {
           "fontFamily": "{typography.font.brand}",
-          "fontWeight": "{typography.font-weight.semi-bold}",
+          "fontWeight": "{typography.font-weight.brand.semi-bold}",
           "fontSize": "{typography.font-size.400}",
           "lineHeight": "{typography.line-height.default.400}",
           "letterSpacing": 0,
