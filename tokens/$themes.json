@@ -9,18 +9,9 @@
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
-      "component/main-layout/desktop": "enabled",
       "component/main-layout/mobile": "enabled",
-      "component/main-layout/tablet-landscape": "enabled",
-      "component/main-layout/tablet-portrait": "enabled",
-      "component/markdown/desktop": "enabled",
       "component/markdown/mobile": "enabled",
-      "component/markdown/tablet-landscape": "enabled",
-      "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/desktop": "enabled",
-      "component/semantic-text/mobile": "enabled",
-      "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
     "$figmaModeId": "20:0",
@@ -232,17 +223,8 @@
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
-      "component/main-layout/desktop": "enabled",
-      "component/main-layout/mobile": "enabled",
-      "component/main-layout/tablet-landscape": "enabled",
       "component/main-layout/tablet-portrait": "enabled",
-      "component/markdown/desktop": "enabled",
-      "component/markdown/mobile": "enabled",
-      "component/markdown/tablet-landscape": "enabled",
-      "component/semantic-text/desktop": "enabled",
-      "component/semantic-text/mobile": "enabled",
       "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/tablet-landscape": "enabled",
       "component/semantic-text/tablet-portrait": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
@@ -455,18 +437,9 @@
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
-      "component/main-layout/desktop": "enabled",
-      "component/main-layout/mobile": "enabled",
       "component/main-layout/tablet-landscape": "enabled",
-      "component/main-layout/tablet-portrait": "enabled",
-      "component/markdown/desktop": "enabled",
-      "component/markdown/mobile": "enabled",
       "component/markdown/tablet-landscape": "enabled",
-      "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/desktop": "enabled",
-      "component/semantic-text/mobile": "enabled",
-      "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/tablet-landscape": "enabled"
     },
     "group": "device"
   },
@@ -558,17 +531,8 @@
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
       "component/main-layout/desktop": "enabled",
-      "component/main-layout/mobile": "enabled",
-      "component/main-layout/tablet-landscape": "enabled",
-      "component/main-layout/tablet-portrait": "enabled",
       "component/markdown/desktop": "enabled",
-      "component/markdown/mobile": "enabled",
-      "component/markdown/tablet-landscape": "enabled",
-      "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/desktop": "enabled",
-      "component/semantic-text/mobile": "enabled",
-      "component/semantic-text/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/semantic-text/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:20:7821",
     "$figmaModeId": "20:3",
@@ -775,7 +739,6 @@
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled",
       "common/media/media": "enabled",
       "common/layout/layout": "enabled"
     },
@@ -829,7 +792,6 @@
     "name": "tablet-portrait",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled",
       "common/layout/layout": "enabled",
       "common/media/media": "enabled"
     },
@@ -840,7 +802,6 @@
     "name": "tablet-landscape",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled",
       "common/layout/layout": "enabled",
       "common/media/media": "enabled"
     },
@@ -851,7 +812,6 @@
     "name": "desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/platform/layout/breakpoint": "enabled",
       "common/layout/layout": "enabled",
       "common/media/media": "enabled"
     },

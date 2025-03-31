@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "common/palette/dark",
     "common/palette/light",
-    "common/platform/layout/breakpoint",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
