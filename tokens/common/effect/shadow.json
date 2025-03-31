@@ -1,0 +1,37 @@
+{
+  "shadow": {
+    "100": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "10",
+        "spread": "0",
+        "color": "{effect.shadow.100}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "500": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "20",
+        "spread": "0",
+        "color": "{effect.shadow.500}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "900": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "30",
+        "spread": "0",
+        "color": "{effect.shadow.900}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}
