@@ -83,11 +83,11 @@
       },
       "lg": {
         "value": "true",
-        "type": "number"
+        "type": "boolean"
       },
       "xl": {
         "value": "true",
-        "type": "number"
+        "type": "boolean"
       }
     },
     "sidebar-width": {
