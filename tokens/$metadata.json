@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
     "common/layout/layout",
-    "common/media/media",
-    "common/palette/dark",
-    "common/palette/light",
     "common/radius/radius",
     "common/size/size",
     "common/spacing/spacing",
     "common/stroke/stroke",
+    "common/media/media",
+    "common/palette/dark",
+    "common/palette/light",
     "common/theme/dark",
     "common/theme/light",
     "common/typography/core",
