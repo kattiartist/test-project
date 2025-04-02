@@ -377,6 +377,60 @@
         },
         "type": "typography"
       }
+    },
+    "Paragraph XS": {
+      "default": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.regular}",
+          "fontSize": "{semantic-text.paragraph-s.font-size}",
+          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.regular}",
+          "fontSize": "{semantic-text.paragraph-s.font-size}",
+          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.medium}",
+          "fontSize": "{semantic-text.paragraph-s.font-size}",
+          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "accent-numeric": {
+        "value": {
+          "fontFamily": "{typography.font.text}",
+          "fontWeight": "{typography.font-weight.text.medium}",
+          "fontSize": "{semantic-text.paragraph-s.font-size}",
+          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "letterSpacing": 0,
+          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
     }
   }
 }
