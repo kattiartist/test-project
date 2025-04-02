@@ -10,8 +10,7 @@
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
       "component/main-layout/mobile": "enabled",
-      "component/markdown/mobile": "enabled",
-      "component/semantic-text/mobile": "enabled"
+      "component/markdown/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:12",
@@ -224,8 +223,7 @@
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
       "component/main-layout/tablet-portrait": "enabled",
-      "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/tablet-portrait": "enabled"
+      "component/markdown/tablet-portrait": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:13",
@@ -438,8 +436,7 @@
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
       "component/main-layout/tablet-landscape": "enabled",
-      "component/markdown/tablet-landscape": "enabled",
-      "component/semantic-text/tablet-landscape": "enabled"
+      "component/markdown/tablet-landscape": "enabled"
     },
     "group": "device",
     "$figmaCollectionId": "VariableCollectionId:369:6483",
@@ -729,8 +726,7 @@
       "common/stroke/stroke": "enabled",
       "common/typography/core": "enabled",
       "component/main-layout/desktop": "enabled",
-      "component/markdown/desktop": "enabled",
-      "component/semantic-text/desktop": "enabled"
+      "component/markdown/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:15",
