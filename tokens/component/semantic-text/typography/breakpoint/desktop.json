@@ -97,6 +97,20 @@
         "value": "{typography.paragraph-spacing.150}",
         "type": "number"
       }
+    },
+    "paragraph-xs": {
+      "font-size": {
+        "value": "{typography.font-size.200}",
+        "type": "number"
+      },
+      "line-height": {
+        "value": "{typography.line-height.default.200}",
+        "type": "number"
+      },
+      "paragraph-spacing": {
+        "value": "{typography.paragraph-spacing.150}",
+        "type": "number"
+      }
     }
   }
 }

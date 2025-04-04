@@ -383,10 +383,10 @@
         "value": {
           "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.text.regular}",
-          "fontSize": "{semantic-text.paragraph-s.font-size}",
-          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "fontSize": "{semantic-text.paragraph-xs.font-size}",
+          "lineHeight": "{semantic-text.paragraph-xs.line-height}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "paragraphSpacing": "{semantic-text.paragraph-xs.paragraph-spacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -396,10 +396,10 @@
         "value": {
           "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.text.regular}",
-          "fontSize": "{semantic-text.paragraph-s.font-size}",
-          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "fontSize": "{semantic-text.paragraph-xs.font-size}",
+          "lineHeight": "{semantic-text.paragraph-xs.line-height}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "paragraphSpacing": "{semantic-text.paragraph-xs.paragraph-spacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -409,10 +409,10 @@
         "value": {
           "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.text.medium}",
-          "fontSize": "{semantic-text.paragraph-s.font-size}",
-          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "fontSize": "{semantic-text.paragraph-xs.font-size}",
+          "lineHeight": "{semantic-text.paragraph-xs.line-height}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "paragraphSpacing": "{semantic-text.paragraph-xs.paragraph-spacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
@@ -422,10 +422,10 @@
         "value": {
           "fontFamily": "{typography.font.text}",
           "fontWeight": "{typography.font-weight.text.medium}",
-          "fontSize": "{semantic-text.paragraph-s.font-size}",
-          "lineHeight": "{semantic-text.paragraph-s.line-height}",
+          "fontSize": "{semantic-text.paragraph-xs.font-size}",
+          "lineHeight": "{semantic-text.paragraph-xs.line-height}",
           "letterSpacing": 0,
-          "paragraphSpacing": "{semantic-text.paragraph-s.paragraph-spacing}",
+          "paragraphSpacing": "{semantic-text.paragraph-xs.paragraph-spacing}",
           "textCase": "none",
           "textDecoration": "none"
         },
