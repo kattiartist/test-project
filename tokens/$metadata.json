@@ -29,6 +29,7 @@
     "component/semantic-text/typography/breakpoint/desktop",
     "component/semantic-text/typography/breakpoint/mobile",
     "component/semantic-text/typography/breakpoint/tablet-landscape",
-    "component/semantic-text/typography/breakpoint/tablet-portrait"
+    "component/semantic-text/typography/breakpoint/tablet-portrait",
+    "component/semantic-text/typography/typography"
   ]
 }
