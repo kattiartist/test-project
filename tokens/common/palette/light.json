@@ -37,6 +37,14 @@
       "type": "color"
     }
   },
+  "content": {
+    "neutral": {
+      "tertiary": {
+        "value": "{dust.300}",
+        "type": "color"
+      }
+    }
+  },
   "dust": {
     "0": {
       "value": "#FFFFFF",
