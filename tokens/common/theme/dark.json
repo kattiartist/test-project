@@ -8,6 +8,10 @@
       "value": "{stardust.400}",
       "type": "color"
     },
+    "neutral-tertiary": {
+      "value": "{dust.300}",
+      "type": "color"
+    },
     "brand-primary": {
       "value": "{brand.100}",
       "type": "color"
