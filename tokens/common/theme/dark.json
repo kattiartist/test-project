@@ -190,6 +190,10 @@
       "value": "{avocado.500}",
       "type": "color"
     },
+    "positive-secondary": {
+      "value": "{avocado.600}",
+      "type": "color"
+    },
     "warning-primary": {
       "value": "{peach.500}",
       "type": "color"
