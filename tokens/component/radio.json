@@ -1,0 +1,40 @@
+{
+    "radio": {
+      "500": {
+        "frame": {
+          "size": {
+            "value": "{selection-control.500.frame-size}",
+            "type": "number"
+          },
+          "border-width": {
+            "value": "{selection-control.500.border-width}",
+            "type": "number"
+          }
+        },
+        "icon": {
+          "size": {
+            "value": "{selection-control.500.icon-size}",
+            "type": "number"
+          }
+        }
+      },
+      "400": {
+        "frame": {
+          "size": {
+            "value": "{selection-control.400.frame-size}",
+            "type": "number"
+          },
+          "border-width": {
+            "value": "{selection-control.400.border-width}",
+            "type": "number"
+          }
+        },
+        "icon": {
+          "size": {
+            "value": "{selection-control.400.icon-size}",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
