@@ -1,0 +1,44 @@
+{
+  "control-ghost": {
+    "500": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      }
+    },
+    "400": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      }
+    },
+    "300": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      }
+    },
+    "200": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      }
+    },
+    "100": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.150}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

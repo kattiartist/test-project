@@ -1,0 +1,24 @@
+{
+  "settings-card": {
+    "border-radius": {
+      "value": "{card-control.border-radius}",
+      "type": "number"
+    },
+    "border-width": {
+      "value": "{card-control.border-width}",
+      "type": "number"
+    },
+    "padding-horizontal": {
+      "value": "{card-control.padding-horizontal}",
+      "type": "number"
+    },
+    "padding-vertical": {
+      "value": "{card-control.padding-vertical}",
+      "type": "number"
+    },
+    "gap": {
+      "value": "{card-control.gap}",
+      "type": "number"
+    }
+  }
+}

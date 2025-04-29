@@ -1,0 +1,26 @@
+{
+    "card-control": {
+      "frame": {
+        "border-radius": {
+          "value": "{radius.250}",
+          "type": "number"
+        },
+      "padding-horizontal": {
+        "value": "{spacing.450}",
+        "type": "number"
+      },
+      "padding-vertical": {
+        "value": "{spacing.450}",
+        "type": "number"
+      },
+      "border-width": {
+        "value": "{stroke.100}",
+        "type": "number"
+      },
+      "gap": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    }
+  }
+}
