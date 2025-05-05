@@ -212,7 +212,7 @@
       "value": "rgba(255,255,255,0.8)",
       "type": "color"
     },
-    "modal": {
+    "floor-2": {
       "value": "{dust.0}",
       "type": "color"
     },
