@@ -1,10 +1,10 @@
 {
-    "card-control": {
-      "frame": {
-        "border-radius": {
-          "value": "{radius.250}",
-          "type": "number"
-        },
+  "card-control": {
+    "frame": {
+      "border-radius": {
+        "value": "{radius.250}",
+        "type": "number"
+      },
       "padding-horizontal": {
         "value": "{spacing.450}",
         "type": "number"

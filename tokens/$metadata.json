@@ -30,6 +30,20 @@
     "component/semantic-text/typography/breakpoint/mobile",
     "component/semantic-text/typography/breakpoint/tablet-landscape",
     "component/semantic-text/typography/breakpoint/tablet-portrait",
-    "component/semantic-text/typography/typography"
+    "component/semantic-text/typography/typography",
+    "component/button",
+    "component/checkbox",
+    "component/info-action-card",
+    "component/input",
+    "component/radio",
+    "component/rich icon",
+    "component/settings-card",
+    "component/switch",
+    "component/textarea",
+    "common/shared/base-component",
+    "common/shared/card-control",
+    "common/shared/control-contained",
+    "common/shared/control-ghost",
+    "common/shared/selection-control"
   ]
 }
