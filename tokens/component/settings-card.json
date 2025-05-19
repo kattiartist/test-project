@@ -1,23 +1,23 @@
 {
   "settings-card": {
     "border-radius": {
-      "value": "{card-control.border-radius}",
+      "value": "{card.border-radius}",
       "type": "number"
     },
     "border-width": {
-      "value": "{card-control.border-width}",
+      "value": "{card.border-width}",
       "type": "number"
     },
     "padding-horizontal": {
-      "value": "{card-control.padding-horizontal}",
+      "value": "{card.padding-horizontal}",
       "type": "number"
     },
     "padding-vertical": {
-      "value": "{card-control.padding-vertical}",
+      "value": "{card.padding-vertical}",
       "type": "number"
     },
     "gap": {
-      "value": "{card-control.gap}",
+      "value": "{card.gap}",
       "type": "number"
     }
   }
