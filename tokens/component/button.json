@@ -30,10 +30,6 @@
           "value": "{control-contained.100.label.padding-horizontal}",
           "type": "number"
         }
-      },
-      "typography": {
-        "value": "{base-component.500.label.style}",
-        "type": "text"
       }
     },
     "200": {
@@ -66,10 +62,6 @@
           "value": "{control-contained.200.label.padding-horizontal}",
           "type": "number"
         }
-      },
-      "typography": {
-        "value": "{base-component.400.label.style}",
-        "type": "text"
       }
     },
     "300": {
@@ -134,10 +126,6 @@
           "value": "{control-contained.400.label.padding-horizontal}",
           "type": "number"
         }
-      },
-      "typography": {
-        "value": "{base-component.200.label.style}",
-        "type": "text"
       }
     },
     "500": {
@@ -170,10 +158,6 @@
           "value": "{control-contained.500.label.padding-horizontal}",
           "type": "number"
         }
-      },
-      "typography": {
-        "value": "{base-component.100.label.style}",
-        "type": "text"
       }
     }
   }
