@@ -8,12 +8,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "common/typography/core": "enabled",
-      "component/main-layout/mobile": "enabled",
-      "component/markdown/mobile": "enabled",
-      "component/semantic-text/layout/mobile": "enabled",
-      "component/semantic-text/typography/breakpoint/mobile": "enabled",
-      "component/semantic-text/typography/typography": "enabled"
+      "common/typography/core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:12",
@@ -224,12 +219,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "common/typography/core": "enabled",
-      "component/main-layout/tablet-portrait": "enabled",
-      "component/markdown/tablet-portrait": "enabled",
-      "component/semantic-text/typography/breakpoint/tablet-portrait": "enabled",
-      "component/semantic-text/layout/tablet-portrait": "enabled",
-      "component/semantic-text/typography/typography": "enabled"
+      "common/typography/core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:13",
@@ -440,12 +430,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "common/typography/core": "enabled",
-      "component/main-layout/tablet-landscape": "enabled",
-      "component/markdown/tablet-landscape": "enabled",
-      "component/semantic-text/typography/breakpoint/tablet-landscape": "enabled",
-      "component/semantic-text/layout/tablet-landscape": "enabled",
-      "component/semantic-text/typography/typography": "enabled"
+      "common/typography/core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:14",
@@ -792,12 +777,7 @@
       "common/size/size": "enabled",
       "common/spacing/spacing": "enabled",
       "common/stroke/stroke": "enabled",
-      "common/typography/core": "enabled",
-      "component/main-layout/desktop": "enabled",
-      "component/markdown/desktop": "enabled",
-      "component/semantic-text/typography/breakpoint/desktop": "enabled",
-      "component/semantic-text/layout/desktop": "enabled",
-      "component/semantic-text/typography/typography": "enabled"
+      "common/typography/core": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:15",
