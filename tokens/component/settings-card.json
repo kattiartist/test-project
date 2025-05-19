@@ -1,24 +1,24 @@
 {
   "settings-card": {
     "border-radius": {
-      "value": "{card-frame.border-radius}",
-      "type": "number"
+      "value": "{card.border-radius}",
+      "type": "border-radius"
     },
     "border-width": {
-      "value": "{card-frame.border-width}",
-      "type": "number"
+      "value": "{card.border-width}",
+      "type": "border-width"
     },
     "padding-horizontal": {
-      "value": "{card-frame.padding-horizontal}",
-      "type": "number"
+      "value": "{card.padding-horizontal}",
+      "type": "spacing"
     },
     "padding-vertical": {
-      "value": "{card-frame.padding-vertical}",
-      "type": "number"
+      "value": "{card.padding-vertical}",
+      "type": "spacing"
     },
     "gap": {
-      "value": "{card-frame.gap}",
-      "type": "number"
+      "value": "{card.gap}",
+      "type": "spacing"
     }
   }
 }
