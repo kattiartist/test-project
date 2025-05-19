@@ -28,7 +28,7 @@
           "value": "{control-contained.300.label.padding-horizontal}",
           "type": "number"
         }
-<<      },
+      },
       "typography": {
         "value": "{base-component.300.label.style}",
         "type": "text"
@@ -92,7 +92,7 @@
           "value": "{control-contained.500.label.padding-horizontal}",
           "type": "number"
         }
-<<      },
+      },
       "typography": {
         "value": "{base-component.500.label.style}",
         "type": "text"
