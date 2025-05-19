@@ -1,5 +1,5 @@
 {
-  "card-control": {
+  "card": {
     "frame": {
       "border-radius": {
         "value": "{radius.250}",
