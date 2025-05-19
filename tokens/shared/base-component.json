@@ -5,16 +5,6 @@
         "min-size": {
           "value": "{size.550}",
           "type": "number"
-        },
-        "label": {
-          "style": {
-            "value": "accent",
-            "type": "other"
-          },
-          "size": {
-            "value": "550",
-            "type": "other"
-          }
         }
       },
       "icon": {
@@ -29,16 +19,6 @@
         "min-size": {
           "value": "{size.500}",
           "type": "number"
-        },
-        "label": {
-          "style": {
-            "value": "accent",
-            "type": "other"
-          },
-          "size": {
-            "value": "500",
-            "type": "other"
-          }
         }
       },
       "icon": {
@@ -53,16 +33,6 @@
         "min-size": {
           "value": "{size.450}",
           "type": "number"
-        },
-        "label": {
-          "style": {
-            "value": "accent",
-            "type": "other"
-          },
-          "size": {
-            "value": "450",
-            "type": "other"
-          }
         }
       },
       "icon": {
@@ -77,16 +47,6 @@
         "min-size": {
           "value": "{size.400}",
           "type": "number"
-        },
-        "label": {
-          "style": {
-            "value": "accent",
-            "type": "other"
-          },
-          "size": {
-            "value": "400",
-            "type": "other"
-          }
         }
       },
       "icon": {
@@ -101,16 +61,6 @@
         "min-size": {
           "value": "{size.350}",
           "type": "number"
-        },
-        "label": {
-          "style": {
-            "value": "accent",
-            "type": "other"
-          },
-          "size": {
-            "value": "350",
-            "type": "other"
-          }
         }
       },
       "icon": {
@@ -122,4 +72,3 @@
     }
   }
 }
-
