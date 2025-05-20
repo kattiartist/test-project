@@ -1105,13 +1105,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/media/media": "enabled",
-      "common/layout/layout": "enabled",
-      "component/button": "enabled",
-      "shared/base-component": "enabled",
-      "shared/card": "enabled",
-      "shared/control-contained": "enabled",
-      "shared/control-ghost": "enabled",
-      "shared/selection-control": "enabled"
+      "common/layout/layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:368:6238",
     "$figmaModeId": "368:4",
@@ -1262,13 +1256,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled",
-      "component/button": "enabled",
-      "shared/base-component": "enabled",
-      "shared/card": "enabled",
-      "shared/control-contained": "enabled",
-      "shared/control-ghost": "enabled",
-      "shared/selection-control": "enabled"
+      "common/media/media": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:368:6238",
     "$figmaModeId": "368:5",
@@ -1419,13 +1407,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled",
-      "component/button": "enabled",
-      "shared/base-component": "enabled",
-      "shared/card": "enabled",
-      "shared/control-contained": "enabled",
-      "shared/control-ghost": "enabled",
-      "shared/selection-control": "enabled"
+      "common/media/media": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:368:6238",
     "$figmaModeId": "368:6",
@@ -1576,13 +1558,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "common/layout/layout": "enabled",
-      "common/media/media": "enabled",
-      "component/button": "enabled",
-      "shared/base-component": "enabled",
-      "shared/card": "enabled",
-      "shared/control-contained": "enabled",
-      "shared/control-ghost": "enabled",
-      "shared/selection-control": "enabled"
+      "common/media/media": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:368:6238",
     "$figmaModeId": "368:7",
