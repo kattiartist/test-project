@@ -11,7 +11,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{stroke.100}",
+          "value": "{stroke.150}",
           "type": "number"
         }
       },
