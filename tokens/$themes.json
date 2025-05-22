@@ -1106,7 +1106,12 @@
       "semantic-text.Paragraph L.accent-underline": "S:704ae3e9d563898dc8497ea3b9f317742ffa21f0,",
       "semantic-text.Paragraph M.accent-underline": "S:b48876dd0ce8b157e860a64508e81887fe02fcf3,",
       "semantic-text.Paragraph S.accent-underline": "S:2a80335209b0acb02a5af5d8fcf8b24144b55d52,",
-      "semantic-text.Paragraph XS.accent-underline": "S:55d6f48cdf62582fa140bc0874b30c9c105b301d,"
+      "semantic-text.Paragraph XS.accent-underline": "S:55d6f48cdf62582fa140bc0874b30c9c105b301d,",
+      "display.960.default": "S:5a58775d46088bc604f80c577bb3126c8c11ac7a,",
+      "display.960.numeric": "S:22f4d638599387c3ef6c502ee6f9f530f187d4da,",
+      "display.960.accent": "S:2b1e76c7ad7557568e700a6be0a28d7a5b250e7f,",
+      "display.960.accent-underline": "S:eeba9165b00b91ebb61be513ac7ea221164d4f2a,",
+      "display.960.accent-numeric": "S:6e2f7e45f93e46608ad92c517c3cc94fec301a64,"
     },
     "selectedTokenSets": {
       "common/radius/radius": "enabled",
