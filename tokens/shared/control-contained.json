@@ -6,10 +6,10 @@
           "value": "{radius.150}",
           "type": "number"
         },
-      "border-width": {
-        "value": "{stroke.150}",
-        "type": "number"
-      },
+        "border-width": {
+          "value": "{stroke.150}",
+          "type": "number"
+        },
         "padding-horizontal": {
           "value": "{spacing.350}",
           "type": "number"
@@ -66,10 +66,10 @@
           "value": "{radius.200}",
           "type": "number"
         },
-      "border-width": {
-        "value": "{stroke.150}",
-        "type": "number"
-      },
+        "border-width": {
+          "value": "{stroke.150}",
+          "type": "number"
+        },
         "padding-horizontal": {
           "value": "{spacing.350}",
           "type": "number"

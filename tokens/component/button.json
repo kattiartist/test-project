@@ -82,10 +82,10 @@
           "value": "{control-contained.300.frame.border-radius}",
           "type": "number"
         },
-      "border-width": {
-        "value": "{control-contained.300.frame.border-width}",
-        "type": "number"
-      },
+        "border-width": {
+          "value": "{control-contained.300.frame.border-width}",
+          "type": "number"
+        },
         "padding-horizontal": {
           "value": "{control-contained.300.frame.padding-horizontal}",
           "type": "number"
