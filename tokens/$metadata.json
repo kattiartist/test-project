@@ -24,6 +24,7 @@
     "component/textarea",
     "component/rich-icon",
     "component/badge",
+    "component/card-input",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
