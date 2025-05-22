@@ -100,11 +100,11 @@
         "type": "number"
       },
       "lg": {
-        "value": 400,
+        "value": 280,
         "type": "number"
       },
       "xl": {
-        "value": 400,
+        "value": 280,
         "type": "number"
       }
     }
