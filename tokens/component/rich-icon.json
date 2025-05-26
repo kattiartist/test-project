@@ -3,11 +3,11 @@
     "100": {
       "frame": {
         "size": {
-          "value": "{base.component.100.frame.min-size}",
+          "value": "{base.component.100.frame.size}",
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.100.frame.border-width}",
+          "value": "{selection-control.300.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
@@ -25,11 +25,11 @@
     "200": {
       "frame": {
         "size": {
-          "value": "{base.component.200.frame.min-size}",
+          "value": "{base.component.200.frame.size}",
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.200.frame.border-width}",
+          "value": "{selection-control.300.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
@@ -47,7 +47,7 @@
     "300": {
       "frame": {
         "size": {
-          "value": "{base.component.300.frame.min-size}",
+          "value": "{base.component.300.frame.size}",
           "type": "number"
         },
         "border-width": {
@@ -69,7 +69,7 @@
     "400": {
       "frame": {
         "size": {
-          "value": "{base.component.400.frame.min-size}",
+          "value": "{base.component.400.frame.size}",
           "type": "number"
         },
         "border-width": {
@@ -91,7 +91,7 @@
     "500": {
       "frame": {
         "size": {
-          "value": "{base.component.500.frame.min-size}",
+          "value": "{base.component.500.frame.size}",
           "type": "number"
         },
         "border-width": {
