@@ -51,7 +51,29 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.100}",
+          "value": "{radius.999}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.150}",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "size": {
+          "value": "{size.350}",
+          "type": "number"
+        }
+      }
+    },
+    "600": {
+      "frame": {
+        "size": {
+          "value": "{size.400}",
+          "type": "number"
+        },
+        "border-radius": {
+          "value": "{radius.999}",
           "type": "number"
         },
         "border-width": {
