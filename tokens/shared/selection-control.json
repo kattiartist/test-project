@@ -17,7 +17,7 @@
       },
       "icon": {
         "size": {
-          "value": "{size.150}",
+          "value": "{size.200}",
           "type": "number"
         }
       }
