@@ -1,24 +1,24 @@
 {
   "card-info-action": {
-      "border-radius": {
-        "value": "{card.frame.border-radius}",
-        "type": "borderRadius"
-      },
-      "border-width": {
-        "value": "{card.frame.border-width}",
-        "type": "borderWidth"
-      },
-      "padding-horizontal": {
-        "value": "{card.frame.padding-horizontal}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{card.frame.padding-vertical}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{card.frame.gap}",
-        "type": "spacing"
-      }
+    "border-radius": {
+      "value": "{card.frame.border-radius}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{card.frame.border-width}",
+      "type": "borderWidth"
+    },
+    "padding-horizontal": {
+      "value": "{card.frame.padding-horizontal}",
+      "type": "spacing"
+    },
+    "padding-vertical": {
+      "value": "{card.frame.padding-vertical}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{card.frame.gap}",
+      "type": "spacing"
     }
   }
+}
