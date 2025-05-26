@@ -27,7 +27,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.500.frame.border-radius}",
+          "value": "{control-contained.600.frame.border-radius}",
           "type": "number"
         }
       }
