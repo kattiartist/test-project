@@ -149,6 +149,36 @@
           "type": "number"
         }
       }
+    },
+    "600": {
+      "frame": {
+        "border-radius": {
+          "value": "{radius.999}",
+          "type": "number"
+        },
+        "border-width": {
+          "value": "{stroke.150}",
+          "type": "number"
+        },
+        "padding-horizontal": {
+          "value": "{spacing.350}",
+          "type": "number"
+        },
+        "padding-vertical": {
+          "value": "{spacing.350}",
+          "type": "number"
+        },
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "number"
+        }
+      },
+      "label": {
+        "padding-horizontal": {
+          "value": "{spacing.250}",
+          "type": "number"
+        }
+      }
     }
   }
 }
