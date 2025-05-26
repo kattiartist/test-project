@@ -2,11 +2,11 @@
   "card-resource": {
     "border-radius": {
       "value": "{card.frame.border-radius}",
-      "type": "border-radius"
+      "type": "borderRadius"
     },
     "border-width": {
       "value": "{card.frame.border-width}",
-      "type": "border-width"
+      "type": "borderWidth"
     },
     "padding-horizontal": {
       "value": "{card.frame.padding-horizontal}",
