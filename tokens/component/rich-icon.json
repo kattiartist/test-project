@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.100.frame.border-width}",
+          "value": "{selection-control.300.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
@@ -17,7 +17,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.100.icon.size}",
+          "value": "{selection-control.300.icon.size}",
           "type": "number"
         }
       }
@@ -29,7 +29,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.200.frame.border-width}",
+          "value": "{selection-control.300.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
@@ -39,7 +39,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.200.icon.size}",
+          "value": "{selection-control.300.icon.size}",
           "type": "number"
         }
       }
