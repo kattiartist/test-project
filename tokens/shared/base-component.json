@@ -139,7 +139,7 @@
       },
       "icon": {
         "size": {
-          "value": "{size.350}",
+          "value": "{size.300}",
           "type": "number"
         }
       }
