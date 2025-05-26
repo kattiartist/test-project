@@ -3,7 +3,7 @@
     "300": {
       "frame": {
         "size": {
-          "value": "{selection-control.300.frame.min-size}",
+          "value": "{selection-control.300.frame.size}",
           "type": "number"
         },
         "border-width": {
@@ -25,7 +25,7 @@
     "400": {
       "frame": {
         "size": {
-          "value": "{selection-control.400.frame.min-size}",
+          "value": "{selection-control.400.frame.size}",
           "type": "number"
         },
         "border-width": {
@@ -47,7 +47,7 @@
     "500": {
       "frame": {
         "size": {
-          "value": "{selection-control.500.frame.min-size}",
+          "value": "{selection-control.500.frame.size}",
           "type": "number"
         },
         "border-width": {

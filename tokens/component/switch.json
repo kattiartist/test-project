@@ -1,8 +1,8 @@
 {
   "switch": {
     "frame": {
-      "min-size": {
-        "value": "{selection-control.500.frame.min-size}",
+      "size": {
+        "value": "{selection-control.500.frame.size}",
         "type": "number"
       },
       "border-radius": {
