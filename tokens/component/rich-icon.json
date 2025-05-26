@@ -2,8 +2,8 @@
   "rich-icon": {
     "100": {
       "frame": {
-        "size": {
-          "value": "{base.component.100.frame.size}",
+        "min-size": {
+          "value": "{base-component.100.frame.min-size}",
           "type": "number"
         },
         "border-width": {
@@ -24,8 +24,8 @@
     },
     "200": {
       "frame": {
-        "size": {
-          "value": "{base.component.200.frame.size}",
+        "min-size": {
+          "value": "{base-component.200.frame.min-size}",
           "type": "number"
         },
         "border-width": {
@@ -46,8 +46,8 @@
     },
     "300": {
       "frame": {
-        "size": {
-          "value": "{base.component.300.frame.size}",
+        "min-size": {
+          "value": "{base-component.300.frame.min-size}",
           "type": "number"
         },
         "border-width": {
@@ -68,8 +68,8 @@
     },
     "400": {
       "frame": {
-        "size": {
-          "value": "{base.component.400.frame.size}",
+        "min-size": {
+          "value": "{base-component.400.frame.min-size}",
           "type": "number"
         },
         "border-width": {
@@ -90,8 +90,8 @@
     },
     "500": {
       "frame": {
-        "size": {
-          "value": "{base.component.500.frame.size}",
+        "min-size": {
+          "value": "{base-component.500.frame.min-size}",
           "type": "number"
         },
         "border-width": {
