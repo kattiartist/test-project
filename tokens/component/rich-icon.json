@@ -17,7 +17,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.100.icon-size}",
+          "value": "{selection-control.100.icon.size}",
           "type": "number"
         }
       }
@@ -39,7 +39,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.200.icon-size}",
+          "value": "{selection-control.200.icon.size}",
           "type": "number"
         }
       }
@@ -61,7 +61,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.300.icon-size}",
+          "value": "{selection-control.300.icon.size}",
           "type": "number"
         }
       }
@@ -83,7 +83,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.400.icon-size}",
+          "value": "{selection-control.400.icon.size}",
           "type": "number"
         }
       }
@@ -105,7 +105,7 @@
       },
       "icon": {
         "size": {
-          "value": "{selection-control.500.icon-size}",
+          "value": "{selection-control.500.icon.size}",
           "type": "number"
         }
       }

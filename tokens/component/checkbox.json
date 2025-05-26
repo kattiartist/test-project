@@ -3,21 +3,21 @@
     "300": {
       "frame": {
         "size": {
-          "value": "{selection-control.300.frame-size}",
+          "value": "{selection-control.300.frame.min-size}",
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.300.border-width}",
+          "value": "{selection-control.300.frame.border-width}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{selection-control.300.border-radius}",
+          "value": "{selection-control.300.frame.border-radius}",
           "type": "number"
         }
       },
       "icon": {
         "size": {
-          "value": "{selection-control.300.icon-size}",
+          "value": "{selection-control.300.icon.size}",
           "type": "number"
         }
       }
@@ -25,21 +25,21 @@
     "400": {
       "frame": {
         "size": {
-          "value": "{selection-control.400.frame-size}",
+          "value": "{selection-control.400.frame.min-size}",
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.400.border-width}",
+          "value": "{selection-control.400.frame.border-width}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{selection-control.400.border-radius}",
+          "value": "{selection-control.400.frame.border-radius}",
           "type": "number"
         }
       },
       "icon": {
         "size": {
-          "value": "{selection-control.400.icon-size}",
+          "value": "{selection-control.400.icon.size}",
           "type": "number"
         }
       }
@@ -47,21 +47,21 @@
     "500": {
       "frame": {
         "size": {
-          "value": "{selection-control.500.frame-size}",
+          "value": "{selection-control.500.frame.min-size}",
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.500.border-width}",
+          "value": "{selection-control.500.frame.border-width}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{selection-control.500.border-radius}",
+          "value": "{selection-control.500.frame.border-radius}",
           "type": "number"
         }
       },
       "icon": {
         "size": {
-          "value": "{selection-control.500.icon-size}",
+          "value": "{selection-control.500.icon.size}",
           "type": "number"
         }
       }

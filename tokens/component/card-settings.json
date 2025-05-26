@@ -1,5 +1,5 @@
 {
-  "card": {
+  "card-settings": {
     "border-radius": {
       "value": "{card.frame.border-radius}",
       "type": "border-radius"
