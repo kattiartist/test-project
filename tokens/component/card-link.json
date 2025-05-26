@@ -1,6 +1,5 @@
 {
   "card-link": {
-    "frame": {
       "border-radius": {
         "value": "{card.frame.border-radius}",
         "type": "borderRadius"
@@ -23,4 +22,3 @@
       }
     }
   }
-}
