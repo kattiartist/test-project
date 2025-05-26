@@ -3,7 +3,7 @@
     "300": {
       "frame": {
         "min-size": {
-          "value": "{base-component.300.frame.min-size}",
+          "value": "{base-component.20.frame.min-size}",
           "type": "number"
         },
         "gap": {
@@ -21,7 +21,7 @@
     "400": {
       "frame": {
         "min-size": {
-          "value": "{base-component.400.frame.min-size}",
+          "value": "{base-component.50.frame.min-size}",
           "type": "number"
         },
         "gap": {
@@ -39,7 +39,7 @@
     "500": {
       "frame": {
         "min-size": {
-          "value": "{base-component.500.frame.min-size}",
+          "value": "{base-component.100.frame.min-size}",
           "type": "number"
         },
         "gap": {
