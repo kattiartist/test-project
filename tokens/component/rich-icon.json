@@ -7,7 +7,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
+          "value": "{selection-control.100.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
@@ -29,7 +29,7 @@
           "type": "number"
         },
         "border-width": {
-          "value": "{selection-control.300.frame.border-width}",
+          "value": "{selection-control.200.frame.border-width}",
           "type": "number"
         },
         "padding-vertical": {
