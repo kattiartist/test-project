@@ -14,20 +14,20 @@
         "type": "number"
       },
       "padding-horizontal": {
-        "value": "{control-contained.500.frame.padding-horizontal}",
+        "value": "{control-contained.200.frame.padding-horizontal}",
         "type": "number"
       },
       "padding-vertical": {
-        "value": "{control-contained.500.frame.padding-vertical}",
+        "value": "{control-contained.200.frame.padding-vertical}",
         "type": "number"
       },
       "knob": {
         "size": {
-          "value": "{base-component.500.icon.size}",
+          "value": "{base-component.300.icon.size}",
           "type": "number"
         },
         "border-radius": {
-          "value": "{control-contained.500.icon.border-radius}",
+          "value": "{control-contained.300.icon.border-radius}",
           "type": "number"
         }
       }
