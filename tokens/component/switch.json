@@ -6,7 +6,7 @@
         "type": "number"
       },
       "border-radius": {
-        "value": "{radiu.999}",
+        "value": "{radius.900}",
         "type": "number"
       },
       "border-width": {
@@ -27,7 +27,7 @@
           "type": "number"
         },
         "border-radius": {
-          "value": "{radius.999}",
+          "value": "{radius.900}",
           "type": "number"
         }
       }
