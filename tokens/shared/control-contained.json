@@ -178,6 +178,12 @@
           "value": "{spacing.250}",
           "type": "number"
         }
+      },
+      "icon": {
+        "border-radius": {
+          "value": "{radius.999}",
+          "type": "number"
+        }
       }
     }
   }
