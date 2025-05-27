@@ -14,11 +14,11 @@
         "type": "number"
       },
       "padding-horizontal": {
-        "value": "{control-contained.200.frame.padding-horizontal}",
+        "value": "{spacing.200}",
         "type": "number"
       },
       "padding-vertical": {
-        "value": "{control-contained.200.frame.padding-vertical}",
+        "value": "{spacing.200}",
         "type": "number"
       },
       "knob": {
