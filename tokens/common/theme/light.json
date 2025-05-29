@@ -90,6 +90,10 @@
       "value": "{avocado.500}",
       "type": "color"
     },
+    "positive-dark": {
+      "value": "{avocado.700}",
+      "type": "color"
+    },
     "warning-bright": {
       "value": "{peach.500}",
       "type": "color"
