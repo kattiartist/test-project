@@ -45,6 +45,7 @@
     "component/chip",
     "component/markdown",
     "component/tab",
+    "component/tabs",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",

@@ -44,7 +44,8 @@
       "component/cell": "enabled",
       "component/chip": "enabled",
       "component/markdown": "enabled",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/tabs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:12",
@@ -453,6 +454,10 @@
       "tab.400.frame.gap": "ffb702d61cb3944fe2e958f7d50efd9da97753fd",
       "tab.400.line.height": "d77f0d6fce8109e2d70a89045ab83fd20a083d4d",
       "tab.400.line.corner-radius": "b5c62a2ec8c16bcd803eb0baa553a04e4f6cd98e",
+      "tabs.100.frame.gap": "643c6488e1544cdf944a8b362a522f9df428f39f",
+      "tabs.200.frame.gap": "81dbc3854845e19e408005fc52f47e77766c40f3",
+      "tabs.300.frame.gap": "da8cb99a110c663d820c82baa43a0a624445b14c",
+      "tabs.400.frame.gap": "e0a01d7749ac0d5811df3ffb12121855e033dc7d",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -573,7 +578,8 @@
       "component/cell": "enabled",
       "component/chip": "enabled",
       "component/markdown": "enabled",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/tabs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:13",
@@ -982,6 +988,10 @@
       "tab.400.frame.gap": "ffb702d61cb3944fe2e958f7d50efd9da97753fd",
       "tab.400.line.height": "d77f0d6fce8109e2d70a89045ab83fd20a083d4d",
       "tab.400.line.corner-radius": "b5c62a2ec8c16bcd803eb0baa553a04e4f6cd98e",
+      "tabs.100.frame.gap": "643c6488e1544cdf944a8b362a522f9df428f39f",
+      "tabs.200.frame.gap": "81dbc3854845e19e408005fc52f47e77766c40f3",
+      "tabs.300.frame.gap": "da8cb99a110c663d820c82baa43a0a624445b14c",
+      "tabs.400.frame.gap": "e0a01d7749ac0d5811df3ffb12121855e033dc7d",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1102,7 +1112,8 @@
       "component/cell": "enabled",
       "component/chip": "enabled",
       "component/markdown": "enabled",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/tabs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:14",
@@ -1511,6 +1522,10 @@
       "tab.400.frame.gap": "ffb702d61cb3944fe2e958f7d50efd9da97753fd",
       "tab.400.line.height": "d77f0d6fce8109e2d70a89045ab83fd20a083d4d",
       "tab.400.line.corner-radius": "b5c62a2ec8c16bcd803eb0baa553a04e4f6cd98e",
+      "tabs.100.frame.gap": "643c6488e1544cdf944a8b362a522f9df428f39f",
+      "tabs.200.frame.gap": "81dbc3854845e19e408005fc52f47e77766c40f3",
+      "tabs.300.frame.gap": "da8cb99a110c663d820c82baa43a0a624445b14c",
+      "tabs.400.frame.gap": "e0a01d7749ac0d5811df3ffb12121855e033dc7d",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1772,7 +1787,8 @@
       "component/cell": "enabled",
       "component/chip": "enabled",
       "component/markdown": "enabled",
-      "component/tab": "enabled"
+      "component/tab": "enabled",
+      "component/tabs": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:15",
@@ -2181,6 +2197,10 @@
       "tab.400.frame.gap": "ffb702d61cb3944fe2e958f7d50efd9da97753fd",
       "tab.400.line.height": "d77f0d6fce8109e2d70a89045ab83fd20a083d4d",
       "tab.400.line.corner-radius": "b5c62a2ec8c16bcd803eb0baa553a04e4f6cd98e",
+      "tabs.100.frame.gap": "643c6488e1544cdf944a8b362a522f9df428f39f",
+      "tabs.200.frame.gap": "81dbc3854845e19e408005fc52f47e77766c40f3",
+      "tabs.300.frame.gap": "da8cb99a110c663d820c82baa43a0a624445b14c",
+      "tabs.400.frame.gap": "e0a01d7749ac0d5811df3ffb12121855e033dc7d",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
