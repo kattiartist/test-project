@@ -38,6 +38,8 @@
     "component/card-subscribe",
     "component/card-subscriptions",
     "component/flex-button",
+    "component/alert",
+    "component/alert-short",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
