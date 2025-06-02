@@ -40,6 +40,7 @@
     "component/flex-button",
     "component/alert",
     "component/alert-short",
+    "component/card-selector",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
