@@ -16,6 +16,10 @@
           "value": "{size.100}",
           "type": "number"
         }
+      },
+      "corner-radius": {
+        "value": "{radius.999}",
+        "type": "number"
       }
     },
     "200": {
@@ -34,6 +38,10 @@
           "value": "{size.100}",
           "type": "number"
         }
+      },
+      "corner-radius": {
+        "value": "{radius.999}",
+        "type": "number"
       }
     },
     "300": {
@@ -52,6 +60,10 @@
           "value": "{size.100}",
           "type": "number"
         }
+      },
+      "corner-radius": {
+        "value": "{radius.999}",
+        "type": "number"
       }
     },
     "400": {
@@ -70,6 +82,10 @@
           "value": "{size.100}",
           "type": "number"
         }
+      },
+      "corner-radius": {
+        "value": "{radius.999}",
+        "type": "number"
       }
     }
   }
