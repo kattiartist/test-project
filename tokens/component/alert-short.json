@@ -8,6 +8,10 @@
       "padding-vertical": {
         "value": "{spacing.450}",
         "type": "number"
+      },
+      "border-radius": {
+        "value": "{control-contained.500.frame.border-radius}",
+        "type": "number"
       }
     }
   }

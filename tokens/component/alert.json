@@ -4,9 +4,13 @@
       "padding-horizontal": {
         "value": "{control-contained.500.frame.padding-horizontal}",
         "type": "number"
-      },
+    },
       "padding-vertical": {
         "value": "{control-contained.500.frame.padding-vertical}",
+        "type": "number"
+      },
+      "border-radius": {
+        "value": "{control-contained.500.frame.border-radius}",
         "type": "number"
       }
     }
