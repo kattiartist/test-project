@@ -44,6 +44,7 @@
     "component/cell",
     "component/chip",
     "component/markdown",
+    "component/tab",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
