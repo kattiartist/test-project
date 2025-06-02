@@ -15,11 +15,11 @@
         "height": {
           "value": "{size.100}",
           "type": "number"
+        },
+        "corner-radius": {
+          "value": "{radius.900}",
+          "type": "number"
         }
-      },
-      "corner-radius": {
-        "value": "{radius.900}",
-        "type": "number"
       }
     },
     "200": {
@@ -37,11 +37,11 @@
         "height": {
           "value": "{size.100}",
           "type": "number"
+        },
+        "corner-radius": {
+          "value": "{radius.900}",
+          "type": "number"
         }
-      },
-      "corner-radius": {
-        "value": "{radius.900}",
-        "type": "number"
       }
     },
     "300": {
@@ -59,11 +59,11 @@
         "height": {
           "value": "{size.100}",
           "type": "number"
+        },
+        "corner-radius": {
+          "value": "{radius.900}",
+          "type": "number"
         }
-      },
-      "corner-radius": {
-        "value": "{radius.900}",
-        "type": "number"
       }
     },
     "400": {
@@ -81,11 +81,11 @@
         "height": {
           "value": "{size.100}",
           "type": "number"
+        },
+        "corner-radius": {
+          "value": "{radius.900}",
+          "type": "number"
         }
-      },
-      "corner-radius": {
-        "value": "{radius.900}",
-        "type": "number"
       }
     }
   }
