@@ -47,6 +47,7 @@
     "component/tab",
     "component/tabs",
     "component/stepper",
+    "component/segmented-control",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
