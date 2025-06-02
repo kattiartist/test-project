@@ -1,0 +1,14 @@
+{
+  "alert-short": {
+    "frame": {
+      "padding-horizontal": {
+        "value": "{spacing.450}",
+        "type": "number"
+      },
+      "padding-vertical": {
+        "value": "{spacing.450}",
+        "type": "number"
+      }
+    }
+  }
+}
