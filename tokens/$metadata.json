@@ -41,6 +41,7 @@
     "component/alert",
     "component/alert-short",
     "component/card-selector",
+    "component/cell",
     "figma-only/main-layout/desktop",
     "figma-only/main-layout/mobile",
     "figma-only/main-layout/tablet-landscape",
