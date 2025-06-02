@@ -40,7 +40,8 @@
       "component/flex-button": "enabled",
       "component/alert": "enabled",
       "component/alert-short": "enabled",
-      "component/card-selector": "enabled"
+      "component/card-selector": "enabled",
+      "component/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:12",
@@ -414,6 +415,10 @@
       "card-selector.padding-horizontal": "48b7d20654b811eece5815fff7b4a70187af6dad",
       "card-selector.padding-vertical": "620fe08f2b8d713f9f63d64a70f288e0a8e72ec0",
       "card-selector.gap": "c45129dd3ed31a385eaee393010dd007ace7c795",
+      "cell.100.frame.gap": "e1ebd7b4ea1f59e106d378ab02ad687c91f13591",
+      "cell.300.frame.gap": "3f143095ea97e968be7eac5239dca5dbcfdda1a9",
+      "cell.400.frame.gap": "e292c7b3bd2c805b77fca6c458d59d637ffc516b",
+      "cell.500.frame.gap": "f2e028ae131d5b9fc36d1566cf61ad8398fbd40c",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -530,7 +535,8 @@
       "component/flex-button": "enabled",
       "component/alert": "enabled",
       "component/alert-short": "enabled",
-      "component/card-selector": "enabled"
+      "component/card-selector": "enabled",
+      "component/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:13",
@@ -904,6 +910,10 @@
       "card-selector.padding-horizontal": "48b7d20654b811eece5815fff7b4a70187af6dad",
       "card-selector.padding-vertical": "620fe08f2b8d713f9f63d64a70f288e0a8e72ec0",
       "card-selector.gap": "c45129dd3ed31a385eaee393010dd007ace7c795",
+      "cell.100.frame.gap": "e1ebd7b4ea1f59e106d378ab02ad687c91f13591",
+      "cell.300.frame.gap": "3f143095ea97e968be7eac5239dca5dbcfdda1a9",
+      "cell.400.frame.gap": "e292c7b3bd2c805b77fca6c458d59d637ffc516b",
+      "cell.500.frame.gap": "f2e028ae131d5b9fc36d1566cf61ad8398fbd40c",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1020,7 +1030,8 @@
       "component/flex-button": "enabled",
       "component/alert": "enabled",
       "component/alert-short": "enabled",
-      "component/card-selector": "enabled"
+      "component/card-selector": "enabled",
+      "component/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:14",
@@ -1394,6 +1405,10 @@
       "card-selector.padding-horizontal": "48b7d20654b811eece5815fff7b4a70187af6dad",
       "card-selector.padding-vertical": "620fe08f2b8d713f9f63d64a70f288e0a8e72ec0",
       "card-selector.gap": "c45129dd3ed31a385eaee393010dd007ace7c795",
+      "cell.100.frame.gap": "e1ebd7b4ea1f59e106d378ab02ad687c91f13591",
+      "cell.300.frame.gap": "3f143095ea97e968be7eac5239dca5dbcfdda1a9",
+      "cell.400.frame.gap": "e292c7b3bd2c805b77fca6c458d59d637ffc516b",
+      "cell.500.frame.gap": "f2e028ae131d5b9fc36d1566cf61ad8398fbd40c",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1651,7 +1666,8 @@
       "component/flex-button": "enabled",
       "component/alert": "enabled",
       "component/alert-short": "enabled",
-      "component/card-selector": "enabled"
+      "component/card-selector": "enabled",
+      "component/cell": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:15",
@@ -2025,6 +2041,10 @@
       "card-selector.padding-horizontal": "48b7d20654b811eece5815fff7b4a70187af6dad",
       "card-selector.padding-vertical": "620fe08f2b8d713f9f63d64a70f288e0a8e72ec0",
       "card-selector.gap": "c45129dd3ed31a385eaee393010dd007ace7c795",
+      "cell.100.frame.gap": "e1ebd7b4ea1f59e106d378ab02ad687c91f13591",
+      "cell.300.frame.gap": "3f143095ea97e968be7eac5239dca5dbcfdda1a9",
+      "cell.400.frame.gap": "e292c7b3bd2c805b77fca6c458d59d637ffc516b",
+      "cell.500.frame.gap": "f2e028ae131d5b9fc36d1566cf61ad8398fbd40c",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",

@@ -1,17 +1,9 @@
 {
   "cell": {
-    "500": {
+    "100": {
       "frame": {
         "gap": {
-          "value": "{spacing.350}",
-          "type": "number"
-        }
-      }
-    },
-    "400": {
-      "frame": {
-        "gap": {
-          "value": "{spacing.350}",
+          "value": "{spacing.250}",
           "type": "number"
         }
       }
@@ -24,10 +16,18 @@
         }
       }
     },
-    "100": {
+    "400": {
       "frame": {
         "gap": {
-          "value": "{spacing.250}",
+          "value": "{spacing.350}",
+          "type": "number"
+        }
+      }
+    },
+    "500": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.350}",
           "type": "number"
         }
       }
