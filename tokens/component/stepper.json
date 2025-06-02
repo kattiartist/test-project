@@ -1,0 +1,10 @@
+{
+  "stepper": {
+    "frame": {
+      "gap": {
+        "value": "{spacing.300}",
+        "type": "number"
+      }
+    }
+  }
+}
