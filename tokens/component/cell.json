@@ -1,0 +1,36 @@
+{
+  "cell": {
+    "500": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
+      }
+    },
+    "400": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.350}",
+          "type": "number"
+        }
+      }
+    },
+    "300": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.300}",
+          "type": "number"
+        }
+      }
+    },
+    "100": {
+      "frame": {
+        "gap": {
+          "value": "{spacing.250}",
+          "type": "number"
+        }
+      }
+    }
+  }
+}
