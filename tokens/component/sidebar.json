@@ -1,0 +1,16 @@
+{
+  "sidebar": {
+    "padding-horizontal": {
+      "value": "{spacing.450}",
+      "type": "spacing"
+    },
+    "padding-vertical": {
+      "value": "{spacing.450}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacing.450}",
+      "type": "spacing"
+    }
+  }
+}
