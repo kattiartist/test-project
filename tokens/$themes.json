@@ -47,7 +47,8 @@
       "component/tab": "enabled",
       "component/tabs": "enabled",
       "component/stepper": "enabled",
-      "component/segmented-control": "enabled"
+      "component/segmented-control": "enabled",
+      "component/sidebar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:12",
@@ -486,6 +487,9 @@
       "segmented-control.500.frame.border-width": "061c297121f31a5aca2065d4f46456659d86073c",
       "segmented-control.500.frame.padding-horizontal": "f4b2cf9d9aca26618adf8059814fb5a753ec72fe",
       "segmented-control.500.frame.gap": "1ca0e52c43cced8cb2f8e6971ce6530c3c21b28e",
+      "sidebar.padding-horizontal": "437532ef237e4cd3cd23821a70ac7e1454594dd0",
+      "sidebar.padding-vertical": "0695170286b421d6ad8992bc2239f5fd6d7241a3",
+      "sidebar.gap": "aa52764c6bac96e0fcba9e6e6310b7ccc325e2ff",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -609,7 +613,8 @@
       "component/tab": "enabled",
       "component/tabs": "enabled",
       "component/stepper": "enabled",
-      "component/segmented-control": "enabled"
+      "component/segmented-control": "enabled",
+      "component/sidebar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:13",
@@ -1048,6 +1053,9 @@
       "segmented-control.500.frame.border-width": "061c297121f31a5aca2065d4f46456659d86073c",
       "segmented-control.500.frame.padding-horizontal": "f4b2cf9d9aca26618adf8059814fb5a753ec72fe",
       "segmented-control.500.frame.gap": "1ca0e52c43cced8cb2f8e6971ce6530c3c21b28e",
+      "sidebar.padding-horizontal": "437532ef237e4cd3cd23821a70ac7e1454594dd0",
+      "sidebar.padding-vertical": "0695170286b421d6ad8992bc2239f5fd6d7241a3",
+      "sidebar.gap": "aa52764c6bac96e0fcba9e6e6310b7ccc325e2ff",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1171,7 +1179,8 @@
       "component/tab": "enabled",
       "component/tabs": "enabled",
       "component/stepper": "enabled",
-      "component/segmented-control": "enabled"
+      "component/segmented-control": "enabled",
+      "component/sidebar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:14",
@@ -1610,6 +1619,9 @@
       "segmented-control.500.frame.border-width": "061c297121f31a5aca2065d4f46456659d86073c",
       "segmented-control.500.frame.padding-horizontal": "f4b2cf9d9aca26618adf8059814fb5a753ec72fe",
       "segmented-control.500.frame.gap": "1ca0e52c43cced8cb2f8e6971ce6530c3c21b28e",
+      "sidebar.padding-horizontal": "437532ef237e4cd3cd23821a70ac7e1454594dd0",
+      "sidebar.padding-vertical": "0695170286b421d6ad8992bc2239f5fd6d7241a3",
+      "sidebar.gap": "aa52764c6bac96e0fcba9e6e6310b7ccc325e2ff",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
@@ -1874,7 +1886,8 @@
       "component/tab": "enabled",
       "component/tabs": "enabled",
       "component/stepper": "enabled",
-      "component/segmented-control": "enabled"
+      "component/segmented-control": "enabled",
+      "component/sidebar": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:369:6483",
     "$figmaModeId": "369:15",
@@ -2313,6 +2326,9 @@
       "segmented-control.500.frame.border-width": "061c297121f31a5aca2065d4f46456659d86073c",
       "segmented-control.500.frame.padding-horizontal": "f4b2cf9d9aca26618adf8059814fb5a753ec72fe",
       "segmented-control.500.frame.gap": "1ca0e52c43cced8cb2f8e6971ce6530c3c21b28e",
+      "sidebar.padding-horizontal": "437532ef237e4cd3cd23821a70ac7e1454594dd0",
+      "sidebar.padding-vertical": "0695170286b421d6ad8992bc2239f5fd6d7241a3",
+      "sidebar.gap": "aa52764c6bac96e0fcba9e6e6310b7ccc325e2ff",
       "base-component.20.frame.min-size": "c6bda0245738cab84972e16af4e7a08914e19036",
       "base-component.20.icon.size": "65fa0daa2c1512df26927b085fcb0bf09ef5b789",
       "base-component.50.frame.min-size": "ee1d05fdcda2b3b5935aa5f2180d5d1c96008a53",
