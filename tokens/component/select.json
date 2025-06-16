@@ -25,7 +25,7 @@
       },
       "icon": {
         "size": {
-          "value": "{base-component.300.icon.size}",
+          "value": "{base-component.400.icon.size}",
           "type": "number"
         }
       }
